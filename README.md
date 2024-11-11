@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arjun-kumar-5098b6247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-kumar-5098b6247" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/14q3wtm1cc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/14q3wtm1cc/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100036351616908&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/14q3wtm1cc/" height="30" width="40" /></a>
 <a href="https://instagram.com/arjun_m0368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjun_m0368" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arjun's creation hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arjun's creation hub" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@Creation_Hub-k1p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arjun's creation hub" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/23scse1010368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="23scse1010368" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arjun_1010368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjun_1010368" height="30" width="40" /></a>
 </p>
