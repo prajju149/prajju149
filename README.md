@@ -1,6 +1,6 @@
 ![logo](https://github.com/prajju149/prajju149/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape%20(2).png)
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring SOC Analyst | Cybersecurity Enthusiast 🔐</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,15 +8,30 @@
 
 - 🌱 I’m currently learning **B.Tech.(CSE) Course**
 
-- 💬 Ask me about **java, html , css**
+- 💬 Ask me about Cyber Security 🔐 Focused on Cybersecurity & SOC Operations  
 
 - 📫 How to reach me **aksir648@gmail.com**
 
-- ⚡ Fun fact **I am funny😅😅**
+- 🧠 Skilled in Network Traffic Analysis & Vulnerability Assessment, Web Development & Data Analysis
+  
+- 🌱 Currently learning SIEM & Threat Detection  
 
-- ## 🌐 My Portfolio
-👉 [View Portfolio](https://arjunvision.netlify.app/)
+- ## 🌐 Portfolio
+👉 https://arjunvision.netlify.app/
 
+
+## 📂 Key Projects
+
+### 🔹 Network Traffic Analysis using Wireshark
+- Captured and analyzed HTTP, DNS, TCP traffic
+- Detected suspicious packets and anomalies
+- Performed packet-level threat investigation
+
+### 🔹 International Debt Dashboard
+- Built Power BI dashboard for global debt analysis
+- Visualized country and region-wise insights
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +53,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajju149&show_icons=true&locale=en" alt="prajju149" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajju149&" alt="prajju149" /></p>
+
+⭐ *Focused on becoming a skilled SOC Analyst and cybersecurity professional*
+
+## 📈 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajju149&theme=react-dark)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajju149&show_icons=true&theme=tokyonight" />
+</p>
